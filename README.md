@@ -130,9 +130,9 @@ mayores de 5 años, de hábitos de optimización de consumo de agua.
 
 ---
 
-### __EDT__
+## __EDT__
 
-# Aplicación lúdica y educativa: Maya ahorra agua
+### Aplicación lúdica y educativa: Maya ahorra agua
 
 | Fase        | Actividades                                                                 |
 |-------------|------------------------------------------------------------------------------|
