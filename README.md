@@ -47,7 +47,7 @@ hace necesario abordar a las futuras generaciones, es decir a los niños; y prop
 herramientas lúdicas que ayuden a educarlos y sensibilizarlos sobre el uso responsable del
 agua con el fin de que cumplan un rol como agentes del cambio.
 
---
+---
 
 __OBJETIVO GENERAL__
 
@@ -55,7 +55,6 @@ Desarrollar un juego lúdico y educativo que permita a los niños mayores de 5 a
 optimizar el consumo del agua en su hogar para reducir así el impacto ambiental que el
 consumo excesivo de este recurso genera.
 
---
 
 __OBJETIVOS ESPECÍFICOS__
 
@@ -71,7 +70,7 @@ condicionales, iteraciones) y funciones.
 corregir posibles errores y asegurar que el mensaje sobre el ahorro del agua sea
 comprensible.
 
---
+---
 
 __ALCANCE__
 
@@ -87,12 +86,12 @@ de decisiones en situaciones típicas de la vida real.
 El juego se estructurará de la siguiente manera:
 1. Introducción (Storyboard): Narrativa visual que presenta a “Maya” y el contexto en el
 que se desenvuelve el juego.
-2. Tres niveles de juego
-- Cada nivel abre nuevos espacios en el hogar para resolver retos relacionados
+2. Tres niveles de juego:
+ - Cada nivel abre nuevos espacios en el hogar para resolver retos relacionados
 con el ahorro de agua.
-- Todos los niveles se componen de un cronómetro para cumplir el objetivo
+ - Todos los niveles se componen de un cronómetro para cumplir el objetivo
 presentado en cada uno.
-- Cada nivel presenta una barra de agua que disminuye con el tiempo, ciertos
+ - Cada nivel presenta una barra de agua que disminuye con el tiempo, ciertos
 retos suman agua, y otros cuyo objetivo es impedir que el agua se agote..
 3. Pantallas de carga con mensajes tipo “Sabías qué...” alusivos al consumo y el ahorro
 del agua. (se presentan entre niveles)
@@ -102,13 +101,13 @@ devastado por la falta de agua.
 un mensaje que motive al jugador a implementar cambios en su hogar y en su rutina.
 Para el funcionamiento lógico del juego se implementarán las bases de programación bajo el
 lenguaje python de la siguiente manera:
-1. Secuencias: Para determinar el orden lógico de las escenas, niveles, y diálogos
+  1. Secuencias: Para determinar el orden lógico de las escenas, niveles, y diálogos
 presentes en el juego.
-2. Condicionales: Cruciales para evaluar decisiones del jugador (Por ejemplo: si el
+ 2. Condicionales: Cruciales para evaluar decisiones del jugador (Por ejemplo: si el
 jugador completo reto para ganar agua, la barra sume el agua ganada)
-3. Iteraciones: Se usarán ciclos por ejemplo para mantener el juego activo mientras haya
+ 3. Iteraciones: Se usarán ciclos por ejemplo para mantener el juego activo mientras haya
 agua y tiempo disponibles.
-4. Funciones: Creación de bloques de código para tareas repetitivas, cómo puede ser la
+ 4. Funciones: Creación de bloques de código para tareas repetitivas, cómo puede ser la
 actualización de los indicadores del agua ahorrada en cada nivel.
 
 El desarrollo del juego integra un sistema de almacenamiento de información mediante
@@ -118,7 +117,7 @@ posición, y puntos.
 
 Se utilizarán herramientas como Python, Gimp y Tiled.
 
---
+---
 
 __PREGUNTA DE INVESTIGACIÓN__
 
