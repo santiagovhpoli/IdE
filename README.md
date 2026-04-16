@@ -1,27 +1,26 @@
 # MAYA Ahorra Agua
 
-## Juego educativo para el uso responsable del agua
+Juego educativo para el uso responsable del agua
+
+Facultad de ingenierías
+
+Politécnico Colombiano Jaime Isaza Cadavid
+
+Técnico Profesional en Programación de Sistemas de Información
 
 
-## Facultad de ingenierías
-
-## Politécnico Colombiano Jaime Isaza Cadavid
-
-## Técnico Profesional en Programación de Sistemas de Información
+**Laura Cristina Giraldo Monsalve**
+**Santiago Vanegas Henao**
+**Camila Osorio Suarez**
 
 
-### Laura Cristina Giraldo Monsalve
-### Santiago Vanegas Henao
-### Camila Osorio Suarez
+Identificación de estándares para la documentación y construcción de informes
 
-
-### Identificación de estándares para la documentación y construcción de informes
-
-### 2026
+2026
 
 ---
 
-__PROBLEMA INTERÉS O NECESIDAD - PIN__
+## __PROBLEMA INTERÉS O NECESIDAD - PIN__
 
 Actualmente enfrentamos un desafío global por problemáticas tales como el cambio
 climático, la sobreexplotación de recursos naturales, la deforestación, etc., que amenazan el
@@ -49,14 +48,14 @@ agua con el fin de que cumplan un rol como agentes del cambio.
 
 ---
 
-__OBJETIVO GENERAL__
+## __OBJETIVO GENERAL__
 
 Desarrollar un juego lúdico y educativo que permita a los niños mayores de 5 años aprender a
 optimizar el consumo del agua en su hogar para reducir así el impacto ambiental que el
 consumo excesivo de este recurso genera.
 
 
-__OBJETIVOS ESPECÍFICOS__
+## __OBJETIVOS ESPECÍFICOS__
 
 - Diseñar un juego educativo que permita enseñar el uso responsable del agua en las
 actividades diarias de los hogares.
@@ -72,7 +71,7 @@ comprensible.
 
 ---
 
-__ALCANCE__
+## __ALCANCE__
 
 Se pretende desarrollar un juego lúdico enfocado en la educación sobre sostenibilidad; más
 precisamente sobre el ahorro de recursos hídricos en el diario vivir de los hogares, dirigido
@@ -101,13 +100,13 @@ devastado por la falta de agua.
 un mensaje que motive al jugador a implementar cambios en su hogar y en su rutina.
 Para el funcionamiento lógico del juego se implementarán las bases de programación bajo el
 lenguaje python de la siguiente manera:
-  1. Secuencias: Para determinar el orden lógico de las escenas, niveles, y diálogos
+ - Secuencias: Para determinar el orden lógico de las escenas, niveles, y diálogos
 presentes en el juego.
- 2. Condicionales: Cruciales para evaluar decisiones del jugador (Por ejemplo: si el
+ - Condicionales: Cruciales para evaluar decisiones del jugador (Por ejemplo: si el
 jugador completo reto para ganar agua, la barra sume el agua ganada)
- 3. Iteraciones: Se usarán ciclos por ejemplo para mantener el juego activo mientras haya
+ - Iteraciones: Se usarán ciclos por ejemplo para mantener el juego activo mientras haya
 agua y tiempo disponibles.
- 4. Funciones: Creación de bloques de código para tareas repetitivas, cómo puede ser la
+ - Funciones: Creación de bloques de código para tareas repetitivas, cómo puede ser la
 actualización de los indicadores del agua ahorrada en cada nivel.
 
 El desarrollo del juego integra un sistema de almacenamiento de información mediante
@@ -119,13 +118,34 @@ Se utilizarán herramientas como Python, Gimp y Tiled.
 
 ---
 
-__PREGUNTA DE INVESTIGACIÓN__
+## __PREGUNTA DE INVESTIGACIÓN__
 
 ¿Cómo una aplicación lúdica influye en el aprendizaje de hábitos de ahorro de agua en los
 niños mayores de 5 años?
 
-__HIPÓTESIS__
+## __HIPÓTESIS__
 
 Una aplicación lúdica y educativa influye positivamente en el aprendizaje, por parte de niños
 mayores de 5 años, de hábitos de optimización de consumo de agua.
 
+---
+
+### __EDT__
+
+|:---------------------------------------------------:|
+|   Aplicación lúdica y educativa: Maya Ahorra Agua   |
+|:---------------------------------------------------:|
+| ANALISIS | DISEÑO | CODIFICACIÓN | PRUEBAS | CIERRE |
+|:---------------------------------------------------:|
+| Definición
+
+|:--------------------------------------------------------------:|
+| Aplicación lúdica y educativa: Maya Ahorra Agua               |
+|:--------------------------------------------------------------:|
+| ANALISIS | DISEÑO | CODIFICACIÓN | PRUEBAS | CIERRE            |
+|:--------------------------------------------------------------:|
+| Definición de requerimientos | Diseño de guion y storyboard | Desarrollo de interfaz | Pruebas de funcionalidad | Documentación final |
+|                              | Diseño de niveles              | Desarrollo de niveles  | Pruebas de datos        | Manual de usuario    |
+|                              | Diseño de pantallas de carga  | Desarrollo de pantallas de carga |                       | Sustentación         |
+|                              | Diseño de pantallas "Game Over" | Desarrollo de pantallas "Game Over" |                  |                      |
+|                              | Diseño de estructura de archivos | Desarrollo de módulo de persistencia |               |                      |
