@@ -7,11 +7,11 @@ Facultad de ingenierías
 Politécnico Colombiano Jaime Isaza Cadavid
 
 Técnico Profesional en Programación de Sistemas de Información
+<br>
 
-
-**Laura Cristina Giraldo Monsalve**
-**Santiago Vanegas Henao**
-**Camila Osorio Suarez**
+**Laura Cristina Giraldo Monsalve** <br>
+**Santiago Vanegas Henao** <br>
+**Camila Osorio Suarez** <br>
 
 
 Identificación de estándares para la documentación y construcción de informes
