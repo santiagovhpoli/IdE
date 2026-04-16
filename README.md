@@ -132,20 +132,12 @@ mayores de 5 años, de hábitos de optimización de consumo de agua.
 
 ### __EDT__
 
-|:---------------------------------------------------:|
-|   Aplicación lúdica y educativa: Maya Ahorra Agua   |
-|:---------------------------------------------------:|
-| ANALISIS | DISEÑO | CODIFICACIÓN | PRUEBAS | CIERRE |
-|:---------------------------------------------------:|
-| Definición
+# Aplicación lúdica y educativa: Maya ahorra agua
 
-|:--------------------------------------------------------------:|
-| Aplicación lúdica y educativa: Maya Ahorra Agua               |
-|:--------------------------------------------------------------:|
-| ANALISIS | DISEÑO | CODIFICACIÓN | PRUEBAS | CIERRE            |
-|:--------------------------------------------------------------:|
-| Definición de requerimientos | Diseño de guion y storyboard | Desarrollo de interfaz | Pruebas de funcionalidad | Documentación final |
-|                              | Diseño de niveles              | Desarrollo de niveles  | Pruebas de datos        | Manual de usuario    |
-|                              | Diseño de pantallas de carga  | Desarrollo de pantallas de carga |                       | Sustentación         |
-|                              | Diseño de pantallas "Game Over" | Desarrollo de pantallas "Game Over" |                  |                      |
-|                              | Diseño de estructura de archivos | Desarrollo de módulo de persistencia |               |                      |
+| Fase        | Actividades                                                                 |
+|-------------|------------------------------------------------------------------------------|
+| ANÁLISIS    | - Definición de requerimientos                                              |
+| DISEÑO      | - Diseño de guion y storyboard<br>- Diseño de niveles<br>- Diseño de pantallas de carga<br>- Diseño de pantallas "Game Over"<br>- Diseño de estructura de archivos |
+| CODIFICACIÓN| - Desarrollo de interfaz<br>- Desarrollo de niveles<br>- Desarrollo de pantallas de carga<br>- Desarrollo de pantallas "Game Over"<br>- Desarrollo de módulo de persistencia |
+| PRUEBAS     | - Pruebas de funcionalidad<br>- Pruebas de datos                            |
+| CIERRE      | - Documentación final<br>- Manual de usuario<br>- Sustentación              |
